@@ -7,6 +7,7 @@ We worked in team of three students; I was responsible for the neural network ba
 Graduated with distinction.
 
 Using the application is deplicted on the video below:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dUCeXeRoBRQ/0.jpg)](https://youtu.be/dUCeXeRoBRQ?t=1m39s) 
 
 ![Main menu](https://github.com/L-Dogg/thesis-showcase/raw/master/main_menu.png)
